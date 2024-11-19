@@ -9,8 +9,8 @@ Aspiring data scientist with a strong foundation in statistical analysis, machin
 ---
 
 ## **Education**
-**[Your Degree, e.g., Bachelor of Science in Data Science]**  
-*Your University*, *City, State*  
+**Masters of Science, Supply Chain Analytics**  
+*Saint Louis University*, *St. Louis, Missouri*  
 **Graduation Date**: *Month, Year*  
 - **Relevant Coursework**: Machine Learning, Data Mining, Statistical Analysis, Data Visualization, Big Data Technologies  
 - **GPA**: *Your GPA (if applicable)*
