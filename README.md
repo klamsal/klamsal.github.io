@@ -27,7 +27,7 @@ Aspiring data scientist with a strong foundation in statistical analysis, machin
 ---
 
 ## **Projects** 
-### **[SuperStores](https://klamsal.github.io/demo)**
+### **[SuperStores](https://klamsal.github.io/Projects)**
 - In this project I analyzed the sales data for a big Superstore
 - Reduced inventory cost by 15%
 
