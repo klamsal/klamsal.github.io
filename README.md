@@ -38,7 +38,7 @@ Aspiring data scientist with a strong foundation in statistical analysis, machin
 - Performed exploratory data analysis (EDA) on **[dataset]** to identify patterns and trends.  
 - Implemented **K-Means clustering** for customer segmentation, identifying **[specific insight]**.  
 
-### **[SuperStores]([https://github.com/your-username/project-repo](https://klamsal.github.io/demo/Supermarket_Sales_EDA.html))**
+### **[SuperStores]([https://github.com/your-username/project-repo](https://klamsal.github.io/demo/Supermarket_Sales_EDA.md))**
 
 
 ---
