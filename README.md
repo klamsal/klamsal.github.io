@@ -26,19 +26,10 @@ Aspiring data scientist with a strong foundation in statistical analysis, machin
 
 ---
 
-## **Projects**
-### **[Project Title: e.g., Movie Revenue Prediction](https://github.com/your-username/project-repo)**
-[Brief description of the project highlighting objectives and results.]  
-- Built a machine learning model using **[tools/libraries]** to predict **[outcomes]**.  
-- Cleaned and analyzed **[size/complexity of dataset]**.  
-- Improved prediction accuracy by **[percentage]%** using advanced feature engineering techniques.  
-
-### **[Project Title: e.g., Customer Segmentation](https://github.com/your-username/project-repo)**
-[Brief description of the project highlighting objectives and results.]  
-- Performed exploratory data analysis (EDA) on **[dataset]** to identify patterns and trends.  
-- Implemented **K-Means clustering** for customer segmentation, identifying **[specific insight]**.  
-
-### **[SuperStores](https://klamsal.github.io/demo)**
+## **Projects** 
+### **[SuperStores](https://klamsal.github.io/Projects)**
+- In this project I analyzed the sales data for a big Superstore
+- Reduced inventory cost by 15%
 
 
 ---
