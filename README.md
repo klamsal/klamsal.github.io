@@ -1,5 +1,5 @@
 # **Kamal Lamsal**
-[Email](mailto:your.email@example.com) | [LinkedIn](https://linkedin.com/in/your-profile) | [GitHub](https://github.com/your-username) | [Portfolio](https://yourportfolio.com)
+[Email](mailto:kamallamsal@gmail.com) | [LinkedIn](https://linkedin.com/in/your-profile) | [GitHub](https://github.com/your-username)
 
 ---
 
