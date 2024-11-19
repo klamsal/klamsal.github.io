@@ -1,4 +1,4 @@
-# **Your Name**
+# **Kamal Lamsal**
 [Your Email](mailto:your.email@example.com) | [LinkedIn](https://linkedin.com/in/your-profile) | [GitHub](https://github.com/your-username) | [Portfolio](https://yourportfolio.com)
 
 ---
